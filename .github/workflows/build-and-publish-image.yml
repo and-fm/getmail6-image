@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: getmail6
+  IMAGE_NAME: and-fm/getmail6
 
 jobs:
   build-and-push-image:
